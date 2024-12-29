@@ -1,5 +1,7 @@
 package array;
 
+//REF: https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960
+
 public class Second {
 
     private static int findSecondLargest(int n, int[] a) {
