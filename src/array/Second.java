@@ -33,7 +33,6 @@ public class Second {
                 sSmallest = a[i];
             }
         }
-        System.out.println("Second smallest:"+smallest);
         return sSmallest;
     }
 
