@@ -1,5 +1,7 @@
 package string;
 
+//https://www.naukri.com/code360/problems/compress-the-string_893402
+
 public class CompressString {
     static String compressString(String s) {
         if (s.isEmpty()) return "";
